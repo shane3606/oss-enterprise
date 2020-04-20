@@ -4,10 +4,15 @@ Welcome to our course on **Getting Started with Open Source in the Enterprise**.
 
 #question
 What is the purpose of this repository?
+
 Who should someone contact if they have questions?
+
 How should someone make contact if they have questions?
+
 What are the first steps to getting started open sourcing a project?
+
 How does this repository relate to other projects and business goals?
+
 
 ### How It Works
 
