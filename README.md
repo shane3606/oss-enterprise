@@ -2,6 +2,13 @@
 
 Welcome to our course on **Getting Started with Open Source in the Enterprise**. We are excited to join you in this journey and look forward to helping you meet your OSS goals.
 
+#question
+What is the purpose of this repository?
+Who should someone contact if they have questions?
+How should someone make contact if they have questions?
+What are the first steps to getting started open sourcing a project?
+How does this repository relate to other projects and business goals?
+
 ### How It Works
 
 This is not your average training course. This is a self-guided journey, where we will be supporting you and your team in creating the necessary documents to define and communicate your Open Source program.
